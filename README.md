@@ -1,6 +1,10 @@
 ## Hi there 👋 I am Mokshith Bhagavan
 Passionate Web Developer
 
+## Contact Me
+mokshithabhi123@gmail.com 
+www.linkedin.com/in/bhagavan-mokshith-703301199
+
 <!--
 **Mokshithabhi/Mokshithabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
