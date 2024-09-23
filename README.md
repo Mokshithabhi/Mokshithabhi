@@ -3,7 +3,7 @@ Passionate Web Developer
 
 ## Contact Me
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <a href="https://mokshithabhi123@gmail.com" style="color: #333;">GMail</a>
+  <a href="https://mokshithabhi123@gmail.com" style="color: #3d3bc6;">GMail</a>
 </div>
 www.linkedin.com/in/bhagavan-mokshith-703301199
 
