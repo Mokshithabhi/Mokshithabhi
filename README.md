@@ -2,7 +2,7 @@
 Passionate Web Developer
 
 ## Contact Me
-mokshithabhi123@gmail.com 
+Gmail 
 www.linkedin.com/in/bhagavan-mokshith-703301199
 
 <!--
